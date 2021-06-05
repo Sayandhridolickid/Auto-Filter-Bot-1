@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @Movievibezz
 
 
 from pyrogram import Client, filters
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/Movievibezz")
+                            "⭕️ Our Group  ⭕️", url="https://t.me/Movievibezz")
                     ]
                 ]
             ),
