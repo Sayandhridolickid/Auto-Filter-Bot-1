@@ -5,7 +5,7 @@ class script(object):
 Hi, ഇത് @Movievibezz നു വേണ്ടി ഉണ്ടാക്കിയ ഒരു Auto-Filter Bot ആണ്. 
 Join Fast🙂
 @Movievibezz
-Maintained by:@Ridolickid
+Maintained by:Group Owner😉
 </b>"""
 
 
