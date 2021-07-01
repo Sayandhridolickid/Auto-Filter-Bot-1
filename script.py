@@ -2,26 +2,27 @@ class script(object):
 
 
     START_MSG = """ <b>Hi {}
-Hi, ഇത് @Movievibezz നു വേണ്ടി ഉണ്ടാക്കിയ ഒരു Auto-Filter Bot ആണ്. 
-Join Fast🙂
-@Movievibezz
+ഞാൻ  [Movie Vibezz](https://t.me/movievibezz) നു വേണ്ടി പ്രവർത്തിക്കുന്ന ഒരു അടിപൊളി 😌Filter Bot ആണ്. 
+എന്നെ വേറെ ഗ്രൂപ്പിൽ add ചെയ്താലും നിങ്ങൾക്ക് വലിയ ഗുണം ഒന്നും ഇല്ല. 
+Okay അപ്പൊ വേഗം നമ്മടെ ഗ്രൂപ്പിൽ join ചെയ്ത് movie എടുത്തോ😁😋.
+
 Maintained by:Group Owner😉
 </b>"""
 
 
-    HELP_MSG = """<b>Sorry,help ചെയ്യാൻ സമയമില്ല 🙂bei</b>
+    HELP_MSG = """<b>For Query- @Ridolickid</b>
 
 <b>© @Movievibezz</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Juggernaut </b>
-    
-⭕️<b>Creater :</b> @Ridolickid
+    ABOUT_MSG = """🦸<b>My Name : Juggernaut </b>
 
-⭕️<b>Language :</b> <code>Python3</code>
+👶<b>Creater :</b> @Ridolickid
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+🔉<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+📔<b>Library :</b> <a🔐</a> 
+
+💻<b>Tutorial Video :</b> <a🔐</a> 
 
 """
