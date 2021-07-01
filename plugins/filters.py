@@ -199,7 +199,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
     else:
-        await query.answer("Thats not for you!!",show_alert=True)
+        await query.answer("nice try brooi🤭!!",show_alert=True)
 
 
 def split_list(l, n):
